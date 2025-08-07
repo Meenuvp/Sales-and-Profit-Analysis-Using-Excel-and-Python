@@ -1,5 +1,4 @@
-# 📊 Sales and Profit Analysis Using Excel and Python – Global Superstore Project
-
+# 📊 Sales & Profit Analysis – Global Superstore
 This project analyzes the **Global Superstore dataset** using Microsoft Excel and Python. The goal is to understand sales and profit trends across different regions and product categories and to build visual dashboards using both tools.
 
 ---
